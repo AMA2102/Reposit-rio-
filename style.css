@@ -1,1 +1,7 @@
-background-color
+body{
+    background-color:crimson;
+}
+h1 {
+    font-style:italic;
+    color:rgb(12, 167, 12);
+}
