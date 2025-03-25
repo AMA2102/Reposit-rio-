@@ -12,10 +12,11 @@ h2 {
 }
 
 .imagem {
-    width: 200px;
-    height: 100px;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
     object-fit:cover;
-    border-radius: 10px;
-    margin: 10px;
+    border-radius: 4px ;
+    margin:10px ;
 }
 
