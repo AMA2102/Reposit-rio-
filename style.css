@@ -1,17 +1,17 @@
 body{
-    background-color: #FEF6E1;
+    background-color:aliceblue;
     font-size:24px;
 }
 h1, h2{
 font-style: italic;
 font-family: 'Times New Roman', Times, serif;
-color: #816238;
+color:black;
 
 }
 
 .imagem {
     width: 100%;
-    max-width: 400px;
+    max-width: 350px;
     height: auto;
     object-fit:cover;
     border-radius: 4px ;
