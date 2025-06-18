@@ -6,12 +6,13 @@ body{
 h1, h2{
 font-style: italic;
 font-family: 'Times New Roman', Times, serif;
-color:black;
+color:red;
 
 }
-p{
-    color:black;
+.caixa {
+    font–size:20px;
 }
+
 
 .imagem {
     width: 100%;
