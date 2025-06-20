@@ -16,15 +16,13 @@ img {
 
 }
 
+.caixa-destaque {
+    background: color #efe8d8;
+}
+
 .frases {
     color:rgb(21, 180, 21);
 }
 
-li{
-    color:black;
-}
 
-.dois{
-    color:hsl(16, 89%, 54%);
-}
 
