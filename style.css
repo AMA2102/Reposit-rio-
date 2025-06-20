@@ -9,18 +9,10 @@ font-family: 'Times New Roman', Times, serif;
 color:red;
 
 }
-.caixa {
-    font–size:20px;
-}
 
-
-.imagem {
-    width: 100%;
-    max-width: 350px;
+img {
+    width: 200px;
     height: auto;
-    object-fit:cover;
-    border-radius: 4px ;
-    margin:10px ;
 
 }
 
