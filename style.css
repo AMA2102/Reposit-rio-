@@ -18,8 +18,9 @@ img {
 
 .caixa-destaque {
     background: color #efe8d8;
+    padding: 30px;
+    text-align: center;
 }
-
 .frases {
     color:rgb(21, 180, 21);
 }
