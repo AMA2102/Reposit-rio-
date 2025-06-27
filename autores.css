@@ -1,11 +1,11 @@
 body{
-    background-color:#F7E7D8;
+    background-color:#BB987C;
     text-align:left;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
 }
 header{
-    background-color:#BB987C;
+    background-color:#F7E7D8;
     padding:20px;
 }
 
@@ -31,7 +31,11 @@ h1{
     flex-grow:1;
     justify-content: left;
     max-width: 100%;
-    width: 90;
+    width: 90%;
     height:auto;
-    
+    border: 2px solid #F7E7D8;
+    border-radius: 15px;
+    background-color:#F7E7D8;
+    padding: 20px;
+    margin-bottom: 20px;
 }
