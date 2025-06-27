@@ -4,3 +4,7 @@ body{
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
 }
+header{
+    background-color:#BB987C;
+    padding:20px;
+}
