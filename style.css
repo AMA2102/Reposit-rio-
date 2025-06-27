@@ -13,11 +13,13 @@ body {
 }
 
 . caixa {
-    font-size: 20px;
-    display: flex;
-    flex-grow: 1;
-    justify-content: left;
-    max-width: 100%;
+    font-size: 22px;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 15px;
+    max-width: 800px;
+    text-align: left;
+
 }
 
 
