@@ -1,21 +1,7 @@
 body {
-    background-color: #CCDCF1;
-
-}
-.imagem {
-    width: 100%;
-    max-width:160px;
-}
-
-. caixa {
-    font-size: 22px;
-    padding: 20px;
-    margin: 20px auto;
-    border-radius: 15px;
-    max-width: 800px;
-    text-align: left;
-
-}
-
+    background-color:#F3E1E1;
+    text-align:center;
+    font-size:medium;
+    font-family: 'Times New Roman', Times, serif;
 
 
