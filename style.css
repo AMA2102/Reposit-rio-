@@ -4,12 +4,7 @@ body {
 }
 .imagem {
     width: 100%;
-    max-width:300px;
-    height:auto;
-    object-fit: cover;
-    border-radius: 15px;
-    margin: 20px auto;
-    display:block;
+    max-width:200px;
 }
 
 . caixa {
