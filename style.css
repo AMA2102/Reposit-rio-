@@ -1,13 +1,14 @@
 body {
     background-color:#FFE4E1;
-    text-align:center;
+    text-align:left;
     font-size:medium;
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1 {
+h1, h2 {
     color:#C08081;
     font-style: italic;
 }
+
 
 
