@@ -17,7 +17,7 @@ h1{
 
 .imagem{
     width:100%;
-    max-width: 400%;
+    max-width: 300px;
     height: auto;
     object-fit: cover;
     border-radius: 15px;
