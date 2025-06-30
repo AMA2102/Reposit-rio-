@@ -39,8 +39,3 @@ h1{
     padding: 20px;
     margin-bottom: 20px;
 }
-.texto {
-    display: flex;
-    flex-direction: column;
-    text-align: left;
-}
