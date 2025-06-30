@@ -29,7 +29,7 @@ h1{
     font-size: 20px;
     display:flex;
     flex-grow:1;
-    justify-content: left;
+    justify-content: space-between;
     max-width: 100%;
     width: 90%;
     height:auto;
@@ -38,4 +38,8 @@ h1{
     background-color:#F7E7D8;
     padding: 20px;
     margin-bottom: 20px;
+}
+
+.coluna1, .coluna2 {
+    width: 48%;
 }
