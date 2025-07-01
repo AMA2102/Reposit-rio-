@@ -1,18 +1,18 @@
 body{
-    background-color:#FAF0CA;
+    background-color:#B1BACB;
     text-align:left;
     font-size:24px;
     font-family:'Times New Roman', Times, serif;
 }
 header{
-    background-color:#C9A6A2;
+    background-color:#FAF0CA;
     padding: 20px;
 }
 
 h1{
     font-style:italic;
     font-family:'Times New Roman', Times, serif;
-    color:#C9A6A2;
+    color:#B1BACB;
 }
 
 .imagem{
@@ -34,9 +34,9 @@ h1{
     max-width:100%;
     width:90%;
     height:auto;
-    border:2px solid #C9A6A2;
+    border:2px solid #B1BACB;
     border-radius:15px;
-    background-color:#C9A6A2;
+    background-color:#B1BACB;
     padding: 20px;
     margin-bottom:20px;
 
